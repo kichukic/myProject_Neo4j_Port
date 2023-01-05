@@ -1,5 +1,6 @@
 # MyProject
-building a small project from scratch
+neo4j port of myProject
+
 
 
 to start ?????
